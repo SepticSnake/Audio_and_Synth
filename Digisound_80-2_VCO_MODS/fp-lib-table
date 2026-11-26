@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "kicad-lib-arduino-main") (type "KiCad") (uri "H:/My Drive/KiCad/kicad-lib-arduino-main") (options "") (descr ""))
+)

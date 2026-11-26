@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "1222-LMNC-VCO--rescue") (type "Legacy") (uri "${KIPRJMOD}/Digisound_80-2_VCO_MODS-rescue.lib") (options "") (descr ""))
+)
